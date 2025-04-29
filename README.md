@@ -2,7 +2,8 @@
 
 🎓 **Computer Science Undergraduate** at COMSATS University Islamabad (Sahiwal Campus)  
 📍 From Samundri, Faisalabad, Punjab, Pakistan  
-📧 Contact: [ahmadjawad.533@gmail.com](mailto:ahmadjawad.533@gmail.com)
+📧 Contact: [ahmadjawad.533@gmail.com](mailto:ahmadjawad.533@gmail.com)  
+🌐 Portfolio: [iahmadjawad533.wixsite.com/my-site](https://iahmadjawad533.wixsite.com/my-site)
 
 ---
 
@@ -88,10 +89,13 @@ Marks: 914/1100
 
 ## 📫 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ahmadjawad533/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ahmadjawad533)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ahmadjawad533/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ahmadjawad.533)  
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ahmadjawad533)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadjawad533/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ahmadjawad533)  
+[🌐 Portfolio Website](https://iahmadjawad533.wixsite.com/my-site)
 
 ---
 
 > “Success isn’t about what you accomplish, it’s about what you inspire others to do.” 🚀
-
