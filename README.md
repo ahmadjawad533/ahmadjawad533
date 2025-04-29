@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Undergraduate** at COMSATS University Islamabad (Sahiwal Campus)  
 📍 From Samundri, Faisalabad, Punjab, Pakistan  
-📧 Contact: [ahmadjawad.533@gmail.com](mailto:ahmadjawad.533@gmail.com)  
+📧 Contact: [iahmadjawad.533@gmail.com](mailto:iahmadjawad.533@gmail.com)  
 🌐 Portfolio: [iahmadjawad533.wixsite.com/my-site](https://iahmadjawad533.wixsite.com/my-site)
 
 ---
