@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ahmad Jawad
 
-🎓 **Computer Science Undergraduate** at COMSATS University Islamabad (Sahiwal Campus)  
+🎓 **Computer Science Undergraduate** at COMSATS University Islamabad (Lahore Campus)  
 📍 From Samundri, Faisalabad, Punjab, Pakistan  
 📧 Contact: [iahmadjawad.533@gmail.com](mailto:iahmadjawad.533@gmail.com)  
 🌐 Portfolio: [iahmadjawad533.wixsite.com/my-site](https://iahmadjawad533.wixsite.com/my-site)
