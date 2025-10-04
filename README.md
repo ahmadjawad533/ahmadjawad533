@@ -6,6 +6,12 @@
 </p>
 
 ---
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Software+Engineer;Open+Source+Contributor;Passionate+Developer+%26+Innovator;Community+Builder+%26+Leader;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</
 
 ## 👋 About Me  
 
