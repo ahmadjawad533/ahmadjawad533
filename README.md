@@ -23,7 +23,7 @@
   <a href="mailto:iahmadjawad.533@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://ahmadjawad533.github.io/">
+  <a href="[https://ahmadjawad533.github.io/](https://iahmadjawad533.wixsite.com/my-site)">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
