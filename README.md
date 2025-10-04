@@ -2,6 +2,35 @@
   <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadjawad533/&title=Visitors&edge_flat=false" alt="Visitor Count" />
 </p>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Ahmad Jawad</h1>
+<h3 align="center">💻 Computer Science Student | Java Developer | Notion CUI Lahore Campus Leader</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&width=450&lines=Passionate+Developer+and+Innovator;Community+Builder+and+Learner;Exploring+AI+and+Open+Source;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadjawad533/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iahmadjawad.533@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://ahmadjawad533.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<!-- Profile Views and Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadjawad533/&title=Visitors&edge_flat=false" alt="Visitor Count" />
+</p>
 
 # 👋 Hi there, I'm Ahmad Jawad
 
