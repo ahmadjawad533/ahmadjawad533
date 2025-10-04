@@ -1,4 +1,7 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ahmadjawad533&label=Visitors&color=brightgreen&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadjawad533/&title=Visitors&edge_flat=false" alt="Visitor Count" />
+</p>
 
 # 👋 Hi there, I'm Ahmad Jawad
 
