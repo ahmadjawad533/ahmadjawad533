@@ -1,7 +1,9 @@
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadjawad533/&title=Visitors&edge_flat=false" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadjawad533.ahmadjawad533&left_color=gray&right_color=blue&style=for-the-badge" alt="Visitor Count" />
 </p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Ahmad Jawad</h1>
 <h3 align="center">💻 Computer Science Student | Java Developer | Notion CUI Lahore Campus Leader</h3>
@@ -26,109 +28,70 @@
   </a>
 </p>
 
-<!-- Profile Views and Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadjawad533/&title=Visitors&edge_flat=false" alt="Visitor Count" />
-</p>
-
-# 👋 Hi there, I'm Ahmad Jawad
-
-🎓 **Computer Science Undergraduate** at COMSATS University Islamabad (Lahore Campus)  
-📍 From Samundri, Faisalabad, Punjab, Pakistan  
-📧 Contact: [iahmadjawad.533@gmail.com](mailto:iahmadjawad.533@gmail.com)  
-🌐 Portfolio: [iahmadjawad533.wixsite.com/my-site](https://iahmadjawad533.wixsite.com/my-site)
-
 ---
 
 ## 💼 About Me
 
-I'm a **motivated computer scientist** with a strong foundation in **Java programming, project management, and community leadership**. I love building real-world projects that integrate creativity and logic—from voting systems to AI-integrated crime management tools. I'm passionate about solving problems, leading teams, and using technology to empower others.
+I'm a **motivated computer scientist** with a strong foundation in **Java programming, project management, and community leadership**.  
+I love building real-world projects that combine creativity and logic—from automation tools to intelligent systems.  
+My passion lies in **technology, innovation, and empowering communities** through impactful digital solutions.
 
 ---
 
-## 🔨 Projects
+## 🧠 Professional Skillset
 
-Here are some of the key projects I've worked on:
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-- 🧮 **Calculator** (Java PF)
-- 🗳️ **Voting System** (Java PF)
-- 📚 **Library Management System** (Java OOP)
-- 🎷 **Jazz Code Menu** (Java PF)
-- 🕵️‍♂️ **Crime Management System** (Java OOP + Integrated AI)
-- 🕹️ **Tank Shooting Game** (Scratch, CS50x Harvard Week 0 project)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
 
----
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev%20C++-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
 
-## 💻 Skills
-
-| Languages & Tools | |
-|-------------------|--|
-| Java (OOP, PF)    | HTML, Linux |
-| Git & GitHub      | WordPress |
-| Scratch           | Database Management |
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science**  
-*COMSATS University Islamabad* (2024 – Present)  
-CGPA: 3.1/4.0
-
-**Intermediate in Pre-Medical**  
-*Government College University (GCU) Lahore* (2021 – 2023)  
-Marks: 914/1100
-
----
-
-## 🏆 Experience & Activities
-
-### 👨‍💻 At COMSATS University
-- Created full Jazz Code Menu System
-- Lead group project: Voting System in Java
-- Developed Java-based Calculator
-- Led Crime Management System project with AI integration
-
-### 🌐 Remote & Campus Roles
-- Campus Ambassador at International MUN & The EPOC Project
-- Intern at Basti ki Pathshala & She Can Foundation
-- Developed CS50x Week 0 Game using Scratch
-
-### 🏥 At GCU Lahore
-- Recognized as **Best Person in Pre-Medical**
-- Organized blood donation camps (BDS GCU)
-- Senior Coordinator: Doctor Sultan Society for Biology
-- Ambassador: Youth Nourishment Society
-
----
-
-## 🗣️ Languages
-
-- English 🇬🇧
-- Urdu 🇵🇰
-- Punjabi 🏞️
-- Hindi 🇮🇳
-
----
-
-## 🥇 Honors & Certifications
-
-- Best Person Award – Iqbal Hostel, GCU Lahore
-- Hostel Coordinator Appreciation – Blood Donor Society
-- Event Organizer Award – DSSB, GCU Lahore
-- Ambassador Award – Youth Nourishment Society
+  <!-- Web / Other Tools -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ahmadjawad533/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ahmadjawad.533)  
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ahmadjawad533)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadjawad533/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ahmadjawad533)  
-[🌐 Portfolio Website](https://iahmadjawad533.wixsite.com/my-site)
+<p align="center">
+  <a href="https://www.facebook.com/ahmadjawad533/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/ahmadjawad.533">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/ahmadjawad533">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmadjawad533/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmadjawad533">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://iahmadjawad533.wixsite.com/my-site">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
