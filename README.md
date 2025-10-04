@@ -5,8 +5,8 @@
 </p>
 
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Ahmad Jawad</h1>
-<h3 align="center">💻 Computer Science Student | Java Developer | Notion CUI Lahore Campus Leader</h3>
+<h1 align="center">Hi there , I'm Ahmad Jawad</h1>
+<h3 align="center"> Computer Science Student | Notion CUI Lahore Campus Leader</h3>
 
 <!-- Typing Animation -->
 <p align="center">
