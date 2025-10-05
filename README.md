@@ -23,7 +23,8 @@ I love turning ideas into impactful digital solutions through **clean, efficient
 
 🧠 I’m always eager to learn and contribute to **open-source**, **Hacktoberfest**, **Google Summer of Code (GSoC)**, and other **community-driven tech projects**.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ## 🌐 Connect With Me  
 
@@ -36,7 +37,8 @@ I love turning ideas into impactful digital solutions through **clean, efficient
   <a href="https://twitter.com/ahmadjawad533"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ## 🧰 Languages & Tools  
 
@@ -44,7 +46,8 @@ I love turning ideas into impactful digital solutions through **clean, efficient
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,mongodb,git,github,wordpress,vscode,linux,idea,notion" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ## 📊 GitHub Stats & Activity  
 
@@ -56,7 +59,8 @@ I love turning ideas into impactful digital solutions through **clean, efficient
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjawad533&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ## 🧩 Coding Profiles  
 
