@@ -69,3 +69,13 @@ I love turning ideas into impactful digital solutions through **clean, efficient
 ---
 
 > _“Success isn’t about what you accomplish, it’s about what you inspire others to do.”_ 🚀
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjawad533&layout=compact&theme=tokyonight" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
