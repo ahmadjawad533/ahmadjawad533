@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Jawad</h1>
+<h1 align="center">Ahmad Jawad Bandesha</h1>
 <h3 align="center">Computer Science Student | Notion CUI Lahore Campus Leader | Old Ravian</h3>
 
 <p align="center">
