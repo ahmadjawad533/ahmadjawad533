@@ -43,7 +43,7 @@ I love turning ideas into impactful digital solutions through **clean, efficient
 ## 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,mongodb,git,github,wordpress,vscode,linux,idea,notion" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,mongodb,git,github,wordpress,vscode,pycharm,postman,linux,idea,notion,scratch" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -74,6 +74,3 @@ I love turning ideas into impactful digital solutions through **clean, efficient
 
 
 > _“Success isn’t about what you accomplish, it’s about what you inspire others to do.”_ 🚀
-
-
-
