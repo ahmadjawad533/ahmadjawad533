@@ -1,5 +1,5 @@
 <h1 align="center">Ahmad Jawad Bandesha</h1>
-<h3 align="center">CS Student | AWS Cloud Club Captain | Notion CUI Lahore Campus Leader | Old Ravian</h3>
+<h3 align="center">CS Student | AWS SBG Lead | Notion Campus Leader | Old Ravian</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=👀+Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
