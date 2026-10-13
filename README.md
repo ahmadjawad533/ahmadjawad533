@@ -4,13 +4,16 @@
 # Ahmad Jawad Bandesha
 
 ### ☁️ Cloud Engineer | AWS SBG Founding Leader | 2x Notion Campus Leader
-### 🌍 Community Builder & Leader | Open Source Enthusiast | Old Ravian
 
-<img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Student+Builder+Group+Founding+Leader;2x+Notion+Campus+Leader;Open+Source+Contributor;Community+Builder+%26+Tech+Enthusiast;Learning%2C+Building+%26+Sharing" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineering+%26+AWS;DevOps+%26+Infrastructure+Automation;Backend+Development+%26+REST+APIs;Linux+%26+Networking;Building+Scalable+Cloud-Native+Solutions" alt="Typing SVG"/>
+
+<p>
+<a href="https://ahmad-jawad-bandesha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ahmadjawad533"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmadjawad533/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -18,166 +21,112 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Ahmad Jawad Bandesha**, a Computer Science undergraduate at **COMSATS University Islamabad, Lahore Campus**, and an **Old Ravian** from Government College University Lahore.
+I'm **Ahmad Jawad Bandesha**, a Computer Science undergraduate at **COMSATS University Islamabad, Lahore Campus**, focused on building a career in **Cloud Engineering and DevOps**.
 
-I'm an aspiring **Cloud Engineer** passionate about cloud computing, AWS, DevOps, automation, open-source development, and building scalable solutions.
+My technical interests span cloud infrastructure, backend engineering, Linux systems, automation, and scalable application architecture. I enjoy understanding how applications are built, deployed, connected, and operated reliably beyond the local development environment.
 
-Beyond writing code, I enjoy **building tech communities, organizing events, mentoring students, and creating opportunities for developers to learn and collaborate.**
+I'm continuously developing my skills through hands-on projects, experimentation, and practical problem-solving.
 
-- ☁️ Exploring **AWS, Cloud Infrastructure, DevOps & Automation**
-- 🚀 Founding Leader of **AWS Student Builder Group, COMSATS Lahore**
-- 📝 **2x Notion Campus Leader**
-- 🌍 **MLH Organizer** and open-source enthusiast
-- 🏆 **2x Google Arcade Champion**
-- 🎓 **Harvard ALP'25** participant
-- 💡 Passionate about **community leadership, innovation & knowledge sharing**
-- 📍 Based in **Lahore, Pakistan**
+- ☁️ **Cloud Computing:** AWS services, cloud infrastructure, and deployment fundamentals
+- 🐧 **Systems:** Linux administration, shell environments, networking, and troubleshooting
+- ⚙️ **Backend Engineering:** Python, FastAPI, REST APIs, and application architecture
+- 🗄️ **Databases:** MySQL, MongoDB, and graph database fundamentals with Neo4j
+- 🔄 **DevOps:** Git, GitHub, automation, containers, and CI/CD fundamentals
+- 💻 **Programming:** Python, Java, C++, and JavaScript
+
+**Current focus:** Moving from foundational cloud knowledge toward production-oriented projects involving deployment, automation, observability, and infrastructure management.
 
 ---
 
-## 🌐 Connect With Me
+## ☁️ Cloud & DevOps Engineering
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmadjawad533/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:iahmadjawad.533@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://ahmad-jawad-bandesha.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/ahmadjawad533">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://instagram.com/ahmadjawad.533">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://linktr.ee/ahmadjawad.533">
-  <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,bash,git,github,python&perline=7" alt="Cloud and DevOps Technologies"/>
 
 </div>
 
----
+### Areas of Focus
 
-## ☁️ Cloud & DevOps
+| Domain | Technologies & Concepts |
+|---|---|
+| Cloud Infrastructure | AWS, IAM, EC2, S3, cloud architecture fundamentals |
+| Networking | TCP/IP, DNS, HTTP/HTTPS, subnetting, routing fundamentals |
+| Linux & Automation | Linux CLI, shell environments, Bash, Python scripting |
+| Containers | Docker fundamentals, containerized applications |
+| CI/CD & Version Control | Git, GitHub, automation workflows |
+| Backend Systems | FastAPI, REST APIs, application integration |
+| Databases | MySQL, MongoDB, Neo4j |
+| Web Technologies | HTML, CSS, JavaScript |
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,bash,python&perline=7"/>
-
-</div>
-
-**Areas of Interest:**
-- Cloud Infrastructure & AWS Services
-- Linux Administration & Shell Scripting
-- Cloud Deployment & Serverless Applications
-- DevOps Fundamentals & Automation
-- Backend APIs & Cloud-Native Development
+*My focus is on developing practical implementation skills across these areas, with deeper specialization in AWS and cloud infrastructure.*
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Languages & Tools
 
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Programming Languages"/>
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb" alt="Backend and Databases"/>
+<img src="https://img.shields.io/badge/Neo4j-Graph_Database-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
 </p>
 
-### Development & Productivity Tools
+### Developer Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,notion,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,idea,postman,git,github,notion" alt="Developer Tools"/>
 </p>
-
-### Additional Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-| Achievement | Organization |
-|:---|:---|
-| 🥇 2x Google Arcade Champion | Google Cloud |
-| 🎓 Harvard ALP'25 | Harvard ALP |
-| 🏅 Neo4j Certified Professional | Neo4j |
-| 📮 Postman Student Expert | Postman |
-| 📝 2x Campus Leader | Notion |
-| ☁️ AWS SBG Founding Leader | AWS Student Builder Groups |
-| 🌍 MLH Organizer | Major League Hacking |
-| 💻 CS50x | Harvard University |
-| 🏆 Hacktoberfest 2025 | Open Source Community |
-
-</div>
-
----
-
-## 🌍 Community Leadership & Impact
-
-### ☁️ AWS Student Builder Group
-**Founding Leader | COMSATS Lahore**
-
-Building a student-led AWS community focused on cloud computing, technical workshops, hands-on learning, and collaborative projects.
-
-### 📝 Notion Campus Leaders
-**2x Campus Leader | Pakistan**
-
-Empowering students through productivity, collaboration, Notion workshops, and campus initiatives.
-
-### 🌐 Major League Hacking
-**MLH Organizer**
-
-Supporting developer communities, hackathons, and opportunities for students to grow through hands-on learning.
-
-### 🤝 Open Source & Developer Communities
-
-Actively involved in developer events, open-source initiatives, technical sessions, and student-led technology communities.
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ 90 Days of Cloud
-A community-focused learning repository documenting cloud computing concepts, AWS, Linux, networking, and practical cloud engineering skills.
+### 1. 90 Days of Cloud
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ahmadjawad533/90-days-of-cloud)
+A structured cloud-learning initiative covering cloud engineering fundamentals, AWS, Linux, networking, and practical learning resources.
 
-### ⚡ Serverless Multi-Tenant SaaS
-Exploring scalable, serverless architecture and multi-tenant application design using AWS services.
+[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ahmadjawad533/90-days-of-cloud)
 
-### 🛠️ AWS Cloud Projects
-Hands-on experiments with cloud infrastructure, REST APIs, serverless applications, and AWS deployment workflows.
+### 2. Serverless Multi-Tenant SaaS
 
-**Explore my work:** [GitHub Repositories](https://github.com/ahmadjawad533?tab=repositories)
+Exploring the design of a cloud-based SaaS application with an emphasis on tenant isolation, scalable architecture, and serverless application patterns.
 
----
+### 3. Smart Event Management System on AWS
 
-## 📊 GitHub Stats & Activity
+A project focused on applying cloud technologies to event management workflows, backend services, and deployment.
+
+### 4. AWS Campus Help Assistant
+
+An application concept focused on making campus information more accessible through software and cloud-based services.
+
+### 5. CRUD API
+
+Backend development practice involving RESTful endpoints, database integration, and core create, read, update, and delete operations.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadjawad533&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/ahmadjawad533?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjawad533&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=ahmadjawad533&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmadjawad533&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjawad533&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=ahmadjawad533&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -187,24 +136,36 @@ Hands-on experiments with cloud infrastructure, REST APIs, serverless applicatio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadjawad533&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadjawad533&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together!
+## 🏆 Certifications & Community
 
-I'm always interested in connecting with developers, cloud enthusiasts, open-source contributors, and community builders.
+- **Neo4j Certified Professional**
+- **Postman Student Expert**
+- **Harvard ALP'25** Alumni
+- **2x Google Arcade Champion**
+- **AWS Student Builder Group**, Founding Leader
+- **Notion Campus Leader**, 2x
+- **Major League Hacking Organizer**
 
-Whether it's an **AWS project, cloud infrastructure experiment, open-source contribution, hackathon, or community initiative**, I believe the best way to grow is by building and learning together.
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-### 💡 Learn. Build. Share. Inspire.
+<a href="https://www.linkedin.com/in/ahmadjawad533/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:iahmadjawad.533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://ahmad-jawad-bandesha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://instagram.com/ahmadjawad.533"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linktr.ee/ahmadjawad.533"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
-*"Success isn't just about what you accomplish, but what you inspire others to do."*
+### ☁️ Learn. Build. Deploy. Improve.
 
-**Thanks for visiting my profile! ☁️🚀**
+*Building practical skills, one system at a time.*
 
 </div>
