@@ -5,7 +5,7 @@
 
 ### ☁️ Cloud Engineer | AWS SBG Founding Leader | 2x Notion Campus Leader
 
-<img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://profile-counter.glitch.me/ahmadjawad533/count.svg" alt="Profile Views"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineering+%26+AWS;DevOps+%26+Infrastructure+Automation;Backend+%26+Full-Stack+Development;Linux+%26+Networking;Building+Cloud-Native+Solutions" alt="Typing SVG"/>
 
@@ -139,21 +139,43 @@ Backend development involving RESTful endpoints, database integration, and creat
 
 ---
 
-## 📈 Contribution Activity
+
+---
+
+## 🚀 GitHub Profile Highlights
 
 <div align="center">
 
-<a href="https://github.com/ahmadjawad533?tab=overview">
-<img src="https://ghchart.rshah.org/0e75b6/ahmadjawad533" alt="Ahmad Jawad's GitHub Contribution Calendar" width="100%"/>
+<a href="https://github.com/ahmadjawad533?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
 </a>
 
-<p>
-<a href="https://github.com/ahmadjawad533?tab=overview">
-<img src="https://img.shields.io/badge/View_Full_Contribution_History-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution History"/>
+<a href="https://github.com/ahmadjawad533?tab=stars">
+<img src="https://img.shields.io/badge/Starred_Projects-Discover_Tech-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects"/>
 </a>
-</p>
+
+<a href="https://github.com/ahmadjawad533?tab=overview">
+<img src="https://img.shields.io/badge/Profile_Activity-View_History-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Activity"/>
+</a>
 
 </div>
+
+### 💻 What I'm Building
+
+- ☁️ Cloud engineering and AWS projects
+- ⚙️ Backend APIs and database-driven applications
+- 🐧 Linux, automation, and DevOps experiments
+- ⚛️ Frontend development with React and JavaScript
+- 🌍 Open-source learning resources and technical projects
+
+<div align="center">
+
+**Explore my work:** [github.com/ahmadjawad533](https://github.com/ahmadjawad533)
+
+</div>
+
+---
+
 
 ---
 
