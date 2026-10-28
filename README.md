@@ -2,7 +2,7 @@
 
 # Ahmad Jawad Bandesha
 
-### ☁️ Cloud Engineer | AWS SBG Founding Leader | 2x Notion Campus Leader
+### Devops Engineer | Gihtub Campus Expert | AWS SBG Founding Leader | 2x Notion Campus Leader
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineering+%26+AWS;DevOps+%26+Infrastructure+Automation;Backend+%26+Full-Stack+Development;Linux+%26+Networking;Building+Cloud-Native+Solutions" alt="Typing SVG"/>
 
