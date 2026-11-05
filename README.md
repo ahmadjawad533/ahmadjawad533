@@ -8,6 +8,8 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=ahmadjawad533&label=PROFILE+VIEWS&color=1e90ff&style=flat-square" alt="Profile Views"/>
+
 ---
 
 ## 👨‍💻 About Me
