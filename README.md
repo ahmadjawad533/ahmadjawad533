@@ -116,9 +116,9 @@ Backend development involving RESTful endpoints, database integration, and creat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmadjawad533&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=ahmadjawad533&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjawad533&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadjawad533&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=ahmadjawad533&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
